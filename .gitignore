@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.env
+
+#MONGO_URI=
+#PORT=
+#JWT_SECRET=
+#EMAIL=
+#APP_PASSWORD=
